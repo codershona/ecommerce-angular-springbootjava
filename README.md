@@ -10,7 +10,7 @@ Full stack E-commerce Application using Angular and Java SpringBoot
 * Choose Maven and then version that it supported installed on PC 
 * Dependencies Added:  Lombok, MySQL Driver, Rest Repositories, Spring Data JPA
 * Import the project in Intellij IDEA
-* 
+* Go to ```http://localhost:8080/api``` and check the api
 
 
 
