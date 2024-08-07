@@ -18,4 +18,5 @@ Full stack E-commerce Application using Angular and Java SpringBoot
 ### Frontend:
 
 * Run ```ng new angular-ecmmerce``` to create apps
+* Run ```ng generate component components/product-list``` to create component
 * 
