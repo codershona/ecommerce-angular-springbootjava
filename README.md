@@ -19,4 +19,4 @@ Full stack E-commerce Application using Angular and Java SpringBoot
 
 * Run ```ng new angular-ecmmerce``` to create apps
 * Run ```ng generate component components/product-list``` to create component
-* Run ```ng serve -open``` and see ```http://localhost:4200/``` on browser
+* Run ```ng serve --open``` and see ```http://localhost:4200/``` on browser
