@@ -11,6 +11,7 @@ Full stack E-commerce Application using Angular and Java SpringBoot
 * Dependencies Added:  Lombok, MySQL Driver, Rest Repositories, Spring Data JPA
 * Import the project in Intellij IDEA
 * Go to ```http://localhost:8080/api``` and check the api
+* Same go to ```http://localhost:8080/api/product-category``` and check the api 
 
 
 
