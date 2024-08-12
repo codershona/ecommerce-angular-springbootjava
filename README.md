@@ -30,7 +30,7 @@ Full stack E-commerce Application using Angular and Java SpringBoot
 
 ##### Frontend: Search for products by category
 
-* In backend go to ```http://localhost:8080/api/products/search/findByCategoryId?=1``` and see the change
+* In backend go to ```http://localhost:8080/api/products/search/findByCategoryId?=1``` or, ```http://localhost:8080/api/products/search/findByCategoryId?=2``` and see the change
 ##### Frontend: Search for products by category(Dynamic Search Component)
 ##### Frontend: Search for products by keywords
 ##### Frontend: Product Master Detail view
