@@ -23,7 +23,19 @@ Full stack E-commerce Application using Angular and Java SpringBoot
 * Run ```ng generate class common/product``` to create component class
 * Run ```ng generate service services/product``` to create service
 
-##### Frontend : I tegrating Online shop template:
+##### Frontend: Product lists and integrating Online shop template:
 
 * Run ```npm install bootstrap@5.2.0``` and configure bootstrap on the project.
 * ```npm install @fortawesome/fontawesome-free``` and configure font awesome on the project.
+
+  ##### Frontend: Search for products by category
+  ##### Frontend: Search for products by category(Dynamic Search Component)
+
+
+
+
+
+
+  
+
+  
